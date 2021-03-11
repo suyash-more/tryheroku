@@ -1,5 +1,5 @@
 <?php
-$name="Yeh hai bora ka bday";
+$name="<h1>Yeh hai bora ka bday</h1>";
 
 ?>
 <!DOCTYPE html>
