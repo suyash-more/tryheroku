@@ -10,8 +10,9 @@ $name="<h1>Yeh hai bora ka bday</h1>";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    <iframe style="width:auto;background-repeat:no-repeat" src="https://www.artsteps.com/embed/60a4a14c96724cf154c6df2f/560/315" frameborder="0" allowfullscreen></iframe>
+<body style="height:100vh;">
+    <iframe     width="100%" 
+    height="100%"  src="https://www.artsteps.com/embed/60a4a14c96724cf154c6df2f/560/315" frameborder="0" allowfullscreen></iframe>
         <h6>this is my frame</h6>
     </body>
 </html>
