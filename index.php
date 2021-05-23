@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Happy BirthDay Baccho &#x1F606;</title>
-    <link rel="icon" href="final.jpg" type="image/gif" sizes="16x16">
+    <link rel="icon" href="kid.jpg" type="image/gif" sizes="16x16">
 </head>
 
 <body style="height:100vh;">
